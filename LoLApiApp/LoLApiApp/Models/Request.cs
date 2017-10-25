@@ -75,9 +75,9 @@ namespace LoLApiApp.Models
             return GET($"https://{ region }.api.riotgames.com/lol/static-data/v3/profile-icons?locale=en_US&api_key={ KEY }");
         }
 
-        public static int TotalMasteryScoreBySummonerId(string region, int id)
+        public static string TotalMasteryScoreBySummonerId(string region, int id)
         {
-            return int.Parse(GET($"https://{ region }.api.riotgames.com/lol/champion-mastery/v3/scores/by-summoner/{ id }?api_key={ KEY }"));
+            return GET($"https://{ region }.api.riotgames.com/lol/champion-mastery/v3/scores/by-summoner/{ id }?api_key={ KEY }");
         }
 
         public static string MasteryBySummonerIdAndChampionId(string region, int summonerid, int championid)
