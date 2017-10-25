@@ -12533,7 +12533,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Bobi\\.nuget\\packages\\": {},
+    "C:\\Users\\Miroslav\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -12542,17 +12542,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\riot\\lol-api-app\\LoLApiApp\\LoLApiApp\\LoLApiApp.csproj",
+      "projectUniqueName": "C:\\Users\\Miroslav\\Documents\\GitHub\\lol-api-app\\LoLApiApp\\LoLApiApp\\LoLApiApp.csproj",
       "projectName": "LoLApiApp",
-      "projectPath": "D:\\riot\\lol-api-app\\LoLApiApp\\LoLApiApp\\LoLApiApp.csproj",
-      "packagesPath": "C:\\Users\\Bobi\\.nuget\\packages\\",
-      "outputPath": "D:\\riot\\lol-api-app\\LoLApiApp\\LoLApiApp\\obj\\",
+      "projectPath": "C:\\Users\\Miroslav\\Documents\\GitHub\\lol-api-app\\LoLApiApp\\LoLApiApp\\LoLApiApp.csproj",
+      "packagesPath": "C:\\Users\\Miroslav\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Miroslav\\Documents\\GitHub\\lol-api-app\\LoLApiApp\\LoLApiApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Bobi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Miroslav\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

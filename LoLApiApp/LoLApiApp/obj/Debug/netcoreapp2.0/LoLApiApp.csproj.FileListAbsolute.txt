@@ -1,0 +1,11 @@
+C:\Users\Miroslav\Documents\GitHub\lol-api-app\LoLApiApp\LoLApiApp\bin\Debug\netcoreapp2.0\LoLApiApp.deps.json
+C:\Users\Miroslav\Documents\GitHub\lol-api-app\LoLApiApp\LoLApiApp\bin\Debug\netcoreapp2.0\LoLApiApp.runtimeconfig.json
+C:\Users\Miroslav\Documents\GitHub\lol-api-app\LoLApiApp\LoLApiApp\bin\Debug\netcoreapp2.0\LoLApiApp.runtimeconfig.dev.json
+C:\Users\Miroslav\Documents\GitHub\lol-api-app\LoLApiApp\LoLApiApp\bin\Debug\netcoreapp2.0\LoLApiApp.dll
+C:\Users\Miroslav\Documents\GitHub\lol-api-app\LoLApiApp\LoLApiApp\bin\Debug\netcoreapp2.0\LoLApiApp.pdb
+C:\Users\Miroslav\Documents\GitHub\lol-api-app\LoLApiApp\LoLApiApp\obj\Debug\netcoreapp2.0\LoLApiApp.csprojResolveAssemblyReference.cache
+C:\Users\Miroslav\Documents\GitHub\lol-api-app\LoLApiApp\LoLApiApp\obj\Debug\netcoreapp2.0\LoLApiApp.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\Documents\GitHub\lol-api-app\LoLApiApp\LoLApiApp\obj\Debug\netcoreapp2.0\LoLApiApp.AssemblyInfoInputs.cache
+C:\Users\Miroslav\Documents\GitHub\lol-api-app\LoLApiApp\LoLApiApp\obj\Debug\netcoreapp2.0\LoLApiApp.AssemblyInfo.cs
+C:\Users\Miroslav\Documents\GitHub\lol-api-app\LoLApiApp\LoLApiApp\obj\Debug\netcoreapp2.0\LoLApiApp.dll
+C:\Users\Miroslav\Documents\GitHub\lol-api-app\LoLApiApp\LoLApiApp\obj\Debug\netcoreapp2.0\LoLApiApp.pdb
