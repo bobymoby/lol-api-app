@@ -6,9 +6,9 @@
 
 <div style="position: absolute; left: 50%; top:50%; transform: translate(-50%, -150%);" class="input-group col-lg-4" id="searchBar" style="padding-top: 4%;">
     <input type="text" placeholder="Input a summoner name..."
-           class="form-control" id="search">
+           class="form-control" id="search" />
     <div class="input-group-btn">
-        <button id="serverBox" type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">EUNE <span class="caret"></span></button>
+        <button id="serverBox" type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span id="server">EUNE</span> <span class="caret"></span></button>
         <ul class="dropdown-menu dropdown-menu-right">
             <li><a style="cursor: pointer" onclick="ChangeServer('EUNE')">EUNE</a></li>
             <li><a style="cursor: pointer" onclick="ChangeServer('RU')">RU</a></li>
@@ -17,7 +17,7 @@
         </ul>
     </div>
     <span class="input-group-btn">
-        <button type="button" class="btn btn-default">
+        <button type="button" class="btn btn-default" onclick="Redirect()">
             <span class="glyphicon glyphicon-search"></span>
         </button>
     </span>
@@ -25,10 +25,18 @@
 
 <script>
 
-    var serverBox = document.getElementById("serverBox");
+    var serverBox = document.getElementById("server");
+    var searchBox = document.getElementById("search");
 
     function ChangeServer(server) {
 
-        serverBox.innerHTML = server + " ";
+        serverBox.innerHTML = server;
+    }
+
+    function Redirect() {
+
+        var url = "/search?region=" + serverBox.innerHTML + "&summonername=" + searchBox.value;
+
+        window.location.href = url;
     }
 </script>
