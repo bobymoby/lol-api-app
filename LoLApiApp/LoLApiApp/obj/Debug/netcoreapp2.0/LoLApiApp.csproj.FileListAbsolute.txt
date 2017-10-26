@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Miroslav\Documents\GitHub\lol-api-app\LoLApiApp\LoLApiApp\bin\Debug\netcoreapp2.0\LoLApiApp.deps.json
 C:\Users\Miroslav\Documents\GitHub\lol-api-app\LoLApiApp\LoLApiApp\bin\Debug\netcoreapp2.0\LoLApiApp.runtimeconfig.json
 C:\Users\Miroslav\Documents\GitHub\lol-api-app\LoLApiApp\LoLApiApp\bin\Debug\netcoreapp2.0\LoLApiApp.runtimeconfig.dev.json
@@ -9,3 +10,16 @@ C:\Users\Miroslav\Documents\GitHub\lol-api-app\LoLApiApp\LoLApiApp\obj\Debug\net
 C:\Users\Miroslav\Documents\GitHub\lol-api-app\LoLApiApp\LoLApiApp\obj\Debug\netcoreapp2.0\LoLApiApp.AssemblyInfo.cs
 C:\Users\Miroslav\Documents\GitHub\lol-api-app\LoLApiApp\LoLApiApp\obj\Debug\netcoreapp2.0\LoLApiApp.dll
 C:\Users\Miroslav\Documents\GitHub\lol-api-app\LoLApiApp\LoLApiApp\obj\Debug\netcoreapp2.0\LoLApiApp.pdb
+=======
+D:\riot\lol-api-app\LoLApiApp\LoLApiApp\bin\Debug\netcoreapp2.0\LoLApiApp.deps.json
+D:\riot\lol-api-app\LoLApiApp\LoLApiApp\bin\Debug\netcoreapp2.0\LoLApiApp.runtimeconfig.json
+D:\riot\lol-api-app\LoLApiApp\LoLApiApp\bin\Debug\netcoreapp2.0\LoLApiApp.runtimeconfig.dev.json
+D:\riot\lol-api-app\LoLApiApp\LoLApiApp\bin\Debug\netcoreapp2.0\LoLApiApp.dll
+D:\riot\lol-api-app\LoLApiApp\LoLApiApp\obj\Debug\netcoreapp2.0\LoLApiApp.csprojResolveAssemblyReference.cache
+D:\riot\lol-api-app\LoLApiApp\LoLApiApp\obj\Debug\netcoreapp2.0\LoLApiApp.csproj.CoreCompileInputs.cache
+D:\riot\lol-api-app\LoLApiApp\LoLApiApp\obj\Debug\netcoreapp2.0\LoLApiApp.AssemblyInfoInputs.cache
+D:\riot\lol-api-app\LoLApiApp\LoLApiApp\obj\Debug\netcoreapp2.0\LoLApiApp.AssemblyInfo.cs
+D:\riot\lol-api-app\LoLApiApp\LoLApiApp\bin\Debug\netcoreapp2.0\LoLApiApp.pdb
+D:\riot\lol-api-app\LoLApiApp\LoLApiApp\obj\Debug\netcoreapp2.0\LoLApiApp.dll
+D:\riot\lol-api-app\LoLApiApp\LoLApiApp\obj\Debug\netcoreapp2.0\LoLApiApp.pdb
+>>>>>>> 5a47470b6f8875323236da2a2b8e4826d05a7686
